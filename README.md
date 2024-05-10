@@ -19,9 +19,9 @@
 ![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/1d235093-1c3b-4a68-a3e9-b778ab665df2)
 ![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/c3bbb9bc-89e2-4d20-8600-3631fa8a8d09)
 ![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/f4ada567-891a-401f-b7cf-8090170fa667)
-![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/b7aeda90-bf41-4113-b67e-9ab2840830a3)
-![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/0979ab1d-fb66-4c96-b542-4bd195f89b82)
-![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/4fb8d3e4-48c8-4346-8075-8c71adba7d45)
+![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/34436525-5bb5-48d7-9e2d-eca84f42b6c3)
+![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/1ef6b1ad-0d90-4785-8745-e2f741915439)
+![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/dcda603b-e240-47fb-a00c-cbf6aa46f69c)
 ![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/fc63be5c-84d7-4db8-b51c-6951dc9de122)
 ![image](https://github.com/lthhoangkhoa225/Python_RFM_Analysis/assets/168264791/e35df3fa-0f98-40b2-ba56-89f1e5f12bb9)
 ## III. Insights
